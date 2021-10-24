@@ -1,6 +1,5 @@
 ---
 id: test2
-slug: /
 ---
 asdfjajskdfkljaskdf
 asdjflasjldkflkasdf
